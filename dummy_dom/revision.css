@@ -1,0 +1,85 @@
+/* p{
+    font-style:italic;
+    color: aqua;
+    background-color: thistle;
+    
+} */
+
+/* font style in css
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+} */
+
+
+/* text style in css 
+ p{
+    text-align: center;
+    text-decoration:dashed;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    text-indent: 20px;
+    text-shadow: 2px  2px #ff0000;
+    line-height: 40%;
+}
+/* 
+backgorund style in css */
+/* p{
+    background-color: lightcyan;
+    background-size:auto;
+    background-position: center;
+    background-origin: content-box;
+} */
+
+/* border style in css */
+/* p{
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: brown;
+    border-spacing: 200px;
+    border: 10px dotted coral;
+
+}  */
+
+/* box model style incss */
+/* p{
+    padding: 45px 20px 100px 20px;
+    width: 150px;
+    height: auto;
+    display: inline-block;
+    float:left;
+    clear: left;
+    margin: 20px 100px 200px 10px;
+    overflow:scroll;
+} */
+
+/* colors in css */
+/* p{
+    color: rgb(black);
+    outline-color: #000000;
+    caret-color: coral;
+    opacity: 10;
+} */
+
+/* div{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.scaled{
+    margin-left: 150px;
+    /* transform:rotateZ(90deg); */
+    /* transform: perspective(15px) translateZ(-10px) scaleZ(-2) rotateZ(15deg) rotateX(45deg);
+} */ 
+
+/* .translate{
+    margin: 2px;
+    text-shadow: 2px 1px;
+} */
