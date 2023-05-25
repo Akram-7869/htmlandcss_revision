@@ -11,11 +11,11 @@
 //remove event listener
 //use the same target and use the same type and use the same function
 
-// //phases of an event
-// let content =document.querySelector("#ak");
-// content.addEventListener('click',function(event){
-//     console.log(event);
-// })
+//phases of an event
+let content =document.querySelector("#ak");
+content.addEventListener('click',function(event){
+    console.log(event);
+})
 
 // let links=document.querySelectorAll('a');
 // let third=links[2];
